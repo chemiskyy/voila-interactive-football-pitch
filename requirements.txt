@@ -1,4 +1,4 @@
 voila
 bqplot
-qgrid
+qgrid>=1.3.0
 numpy
