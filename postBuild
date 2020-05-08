@@ -1,0 +1,2 @@
+#!/bin/bash
+jupyter notebook --VoilaConfiguration.enable_nbextensions=True
