@@ -1,6 +1,6 @@
 {
     "VoilaConfiguration": {
         "theme": "dark",
-        "enable_nbextensions": true,
+        "enable_nbextensions": "True",
     }
 }
